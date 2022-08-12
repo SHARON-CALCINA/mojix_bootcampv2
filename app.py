@@ -1,3 +1,3 @@
+import stramlit as st
 
-
-print('Hello python from sc world XD')
+st.write('Hello python from sc world XD')
